@@ -1,0 +1,23 @@
+{
+  "name": "iVoox-electron",
+  "productName": "iVooxNode",
+  "version": "0.1.0",
+  "description": "Unofficial iVoox player",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ivoox",
+    "app",
+    "audio"
+  ],
+  "author": "Edgar Valencia <isc.edgarvalencia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "node-ivoox": "^1.0.0",
+    "underscore": "^1.8.3",
+    "jquery": "^2.1.4"
+  }
+}
